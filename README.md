@@ -1,6 +1,3 @@
-# aem6850-modules
-A repo for the presentations and code in AEM 6850 Fall 2023.
-
 <p style="text-align: center;"><span><strong>AEM 6850: Empirical Methods for Applied Economists<br /></strong>Fall 2023<br />T/Th 11:40am &ndash; 12:55pm<br />Location: Malott Hall 224</span></p>
 <p>&nbsp;</p>
 <p><span>Prof. Aleksandr Michuda<br /></span>Rhodes Hall 237<br /><span>Email: </span><span><a href="mailto:ao332@cornell.edu">am2497@cornell.edu</a><br /></span><span>Office hours: Wed 11-12</span></p>
