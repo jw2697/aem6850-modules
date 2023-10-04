@@ -1,3 +1,12 @@
+
+root = "C:\Users\aleks\..." # change this to your project
+
+project_folder = root + "project/"
+
+data_folder = project_folder + "data/"
+
+pd.read_csv(data_folder + 'data.csv')
+
 ---
 title: 'Unit 9: Efficient coding practices'
 author: "Prof. Aleksandr Michuda"
