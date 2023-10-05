@@ -7,7 +7,7 @@ format:
     theme: metropolis
 institute: Center for Data Science for Enterprise and Society, Cornell University
 ---
-
+nonsense
 # What are we doing today?
 
 - Being smart about your workflow
